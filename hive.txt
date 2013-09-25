@@ -1,0 +1,5 @@
+2013-09-25 11:02:51 HiveExt: [Information] HiveExt f20dbd5b6625
+2013-09-25 11:02:51 Database: [Information] Connected to MySQL database localhost:3306/dayz_epoch client ver: 5.5.28 server ver: 5.5.32
+2013-09-25 11:02:51 Database: [Information] Connected to MySQL database localhost:3306/dayz_epoch client ver: 5.5.28 server ver: 5.5.32
+2013-09-25 11:02:51 HiveExt: [Information] Method: 103 Params: 119275142:any:2:
+2013-09-25 11:02:51 HiveExt: [Error] Error executing |CHILD:103:119275142:any:2:|
